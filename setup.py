@@ -14,8 +14,7 @@ setuptools.setup(
     url='https://github.com/tomchen/example_pypi_package',
     project_urls={
         'Documentation': 'https://github.com/intrapus/jango',
-        'Bug Reports':
-        'https://github.com/intrapus/jango/issues',
+        'Bug Reports': 'https://github.com/intrapus/jango/issues',
         'Source Code': 'https://github.com/intrapus/jango',
         # 'Funding': '',
         # 'Say Thanks!': '',
