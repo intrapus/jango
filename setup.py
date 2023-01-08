@@ -4,19 +4,19 @@ with open('README.md', 'r', encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='example_pypi_package',
-    author='Tom Chen',
-    author_email='tomchen.org@gmail.com',
-    description='Example PyPI (Python Package Index) Package',
+    name='jango',
+    author='intrapus',
+    author_email='dev@intrapus.com',
+    description='Dependency Confusion Test',
     keywords='example, pypi, package',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/tomchen/example_pypi_package',
     project_urls={
-        'Documentation': 'https://github.com/tomchen/example_pypi_package',
+        'Documentation': 'https://github.com/intrapus/jango,
         'Bug Reports':
-        'https://github.com/tomchen/example_pypi_package/issues',
-        'Source Code': 'https://github.com/tomchen/example_pypi_package',
+        'https://github.com/intrapus/jango/issues',
+        'Source Code': 'https://github.com/intrapus/jango',
         # 'Funding': '',
         # 'Say Thanks!': '',
     },
