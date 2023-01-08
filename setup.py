@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='jango',
+    name='pyprivpackage',
     author='intrapus',
     author_email='dev@intrapus.com',
     description='Dependency Confusion Test',
